@@ -146,6 +146,12 @@ a {
     position: absolute;
 }
 
+.stars-4 img{
+    width:100vw;
+    bottom: -307%;
+    position: absolute;
+}
+
 .clubname h2 {
     font-family: "internet";
     position: absolute;
@@ -155,3 +161,8 @@ a {
     font-size: 1.6em;
 }
 
+.sign-up-form iframe{
+    width: 100vw;
+    margin-top: 35%;
+    margin-bottom: 5%;
+}
