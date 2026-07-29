@@ -4,14 +4,14 @@
 }
 
 .title img{
-    max-width: 35vw;
+    max-width: 45vw;
     display: block;
     margin: auto;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 
 .title img:hover{
-    scale: 1.05;
+    scale: 1.025;
     transition: 100ms ease;
 }
 
@@ -40,17 +40,27 @@ body {
 .project-showcase img{
     border-radius: 1em;
     border-style: dashed;
-    border-color: black;
+    border-color: #1d1d1d;
     width: 30vw;
     max-height: 17vw;
     object-fit: cover;
+}
+
+.project-showcase img:hover{
+    scale: 1.025;
+    transition: 100ms ease;
+}
+
+.project-showcase img:not(:hover){
+    scale:1;
+    transition: 100ms ease;
 }
 
 .project-showcase h2{
     text-align: center;
     font-size: 1.6em;
     /*filter: drop-shadow(1px 0px 1px black);*/
-    color: black;
+    color: #1d1d1d;
     font-family:"internet", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
@@ -61,3 +71,16 @@ a {
 .card-author h2{
     font-size: 1.2em;
 }
+
+.stars img{
+    width:100vw;
+    top: 40%;
+    position: absolute;
+}
+
+.stars-2 img{
+    width:100vw;
+    bottom: -53%;
+    position: absolute;
+}
+
