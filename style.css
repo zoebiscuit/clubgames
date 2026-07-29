@@ -41,7 +41,7 @@ body {
     border-radius: 1em;
     border-style: dashed;
     border-color: black;
-    max-width: 30vw;
+    width: 30vw;
     max-height: 17vw;
     object-fit: cover;
 }
