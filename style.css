@@ -1,0 +1,63 @@
+@font-face {
+    font-family: "internet";
+    src: url(Internet\ Friends.ttf);
+}
+
+.title img{
+    max-width: 35vw;
+    display: block;
+    margin: auto;
+    margin-top: 5%;
+}
+
+.title img:hover{
+    scale: 1.05;
+    transition: 100ms ease;
+}
+
+.title img:not(:hover){
+    scale:1;
+    transition: 100ms ease;
+}
+
+body {
+    margin: 0;
+    background-color: #efebe2;
+}
+
+.project-showcase {
+    margin: 1.6em;
+    border-radius: 2em;
+    display:flex;
+    flex-wrap: wrap;
+    overflow-y: auto;
+    gap: 2em;
+    max-width: 98vw;
+    position: absolute;
+    top: 50%;
+}
+
+.project-showcase img{
+    border-radius: 1em;
+    border-style: dashed;
+    border-color: black;
+    max-width: 30vw;
+    max-height: 17vw;
+    object-fit: cover;
+}
+
+.project-showcase h2{
+    text-align: center;
+    font-size: 1.6em;
+    /*filter: drop-shadow(1px 0px 1px black);*/
+    color: black;
+    font-family:"internet", 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+a {
+    text-decoration: none;
+}
+
+.card-author h2{
+    font-size: 1.2em;
+}
