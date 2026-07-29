@@ -184,3 +184,12 @@ nav {
     /*background-color: #ffc7da;*/
 }
 
+nav:hover {
+    scale: 1.025;
+    transition: 100ms ease;
+}
+
+nav:not(:hover) {
+    scale: 1;
+    transition: 100ms ease;
+}
