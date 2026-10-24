@@ -6,7 +6,8 @@ built this so i can quickly show all the projects my hackclub at my school that 
 
 This is a simple website that shows the games and websites that were programmed by club members in the last year. I got projects from Daydream Miami, Campfire Miami, Sleepover, not yet Sunbeam Miami, and general club meetings. Currently has 12 projects: 9 videogames, and 3 websites. The creators are anonymous, but I kept what grade they were in when they made the project to show people that literally anyone can make anything! 
 
-<div class="tenor-gif-embed" data-postid="12304771628463087860" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/caseoh-yes-gif-12304771628463087860">Caseoh Yes Meme</a>from <a href="https://tenor.com/search/caseoh-memes">Caseoh Memes</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="255" height="191" alt="image" src="https://github.com/user-attachments/assets/448cafb6-75fb-48a2-a58d-e59805a36097" />
+
 
 Here is da link: https://zoebiscuit.github.io/clubgames/
 
